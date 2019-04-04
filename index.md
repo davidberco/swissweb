@@ -4,6 +4,3 @@
 
 layout: home
 ---
-
-This is a Page, that is probably not allocated anywhere in the markdown
-{{ page.title }}
